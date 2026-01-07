@@ -62,6 +62,48 @@ const mockVideos: Video[] = [
     video_url: `${R2_BASE_URL}/IMG_0996.MP4`,
     thumbnail_url: '/5.png',
   },
+  {
+    id: '9',
+    title: 'Ustoz AI Interview 1',
+    video_url: `${R2_BASE_URL}/AQPYJZa6X1RxDwRQEyUziXiCUvAjUd9LcnKBQNdGBfc1Hb1VucwZIvqMQk1_aod.mp4`,
+    thumbnail_url: '/9.png',
+  },
+  {
+    id: '10',
+    title: 'Ustoz AI Interview 2',
+    video_url: `${R2_BASE_URL}/IMG_1250.MOV`,
+    thumbnail_url: '/11.png',
+  },
+  {
+    id: '11',
+    title: 'Ustoz AI Interview 3',
+    video_url: `${R2_BASE_URL}/IMG_1251.MOV`,
+    thumbnail_url: '/12.png',
+  },
+  {
+    id: '12',
+    title: 'Ustoz AI Interview 4',
+    video_url: `${R2_BASE_URL}/IMG_1252.MOV`,
+    thumbnail_url: '/10.png',
+  },
+  {
+    id: '13',
+    title: 'Ustoz AI Interview 5',
+    video_url: `${R2_BASE_URL}/IMG_1253.MOV`,
+    thumbnail_url: '/13.png',
+  },
+  {
+    id: '14',
+    title: 'Ustoz AI Interview 6',
+    video_url: `${R2_BASE_URL}/IMG_1253.MOV`,
+    thumbnail_url: '/14.png',
+  },
+  {
+    id: '15',
+    title: 'Ustoz AI Interview 7',
+    video_url: `${R2_BASE_URL}/IMG_1255.MOV`,
+    thumbnail_url: '/15.png',
+  },
 ]
 
 // Group videos into pages of 4 (2x2 grid)

@@ -102,5 +102,12 @@ INSERT INTO videos (title, description, thumbnail_url, video_url, duration_secon
 ('Waterfall', 'Majestic waterfall in nature', 'https://images.pexels.com/videos/1409899/free-video-1409899.jpg?auto=compress&cs=tinysrgb&w=400', 'https://videos.pexels.com/video-files/1409899/1409899-hd_1920_1080_30fps.mp4', 16),
 ('Space Journey', 'Exploring the cosmos and stars', 'https://images.pexels.com/videos/3194277/free-video-3194277.jpg?auto=compress&cs=tinysrgb&w=400', 'https://videos.pexels.com/video-files/3194277/3194277-hd_1280_720_30fps.mp4', 25),
 ('Coffee Morning', 'Perfect morning coffee preparation', 'https://images.pexels.com/videos/5529604/free-video-5529604.jpg?auto=compress&cs=tinysrgb&w=400', 'https://videos.pexels.com/video-files/5529604/5529604-hd_1080_1920_25fps.mp4', 14),
-('Autumn Leaves', 'Beautiful autumn colors and falling leaves', 'https://images.pexels.com/videos/5147952/free-video-5147952.jpg?auto=compress&cs=tinysrgb&w=400', 'https://videos.pexels.com/video-files/5147952/5147952-hd_1920_1080_25fps.mp4', 19);
+('Autumn Leaves', 'Beautiful autumn colors and falling leaves', 'https://images.pexels.com/videos/5147952/free-video-5147952.jpg?auto=compress&cs=tinysrgb&w=400', 'https://videos.pexels.com/video-files/5147952/5147952-hd_1920_1080_25fps.mp4', 19),
+('Ustoz AI Interview 1', 'Interview featuring Ustoz AI platform', '/9.png', 'https://pub-7f4e732999f740a39783172c306c439c.r2.dev/AQPYJZa6X1RxDwRQEyUziXiCUvAjUd9LcnKBQNdGBfc1Hb1VucwZIvqMQk1_aod.mp4', 0),
+('Ustoz AI Interview 2', 'Interview session at Ustoz AI event', '/11.png', 'https://pub-7f4e732999f740a39783172c306c439c.r2.dev/IMG_1250.MOV', 0),
+('Ustoz AI Interview 3', 'Educational interview content', '/12.png', 'https://pub-7f4e732999f740a39783172c306c439c.r2.dev/IMG_1251.MOV', 0),
+('Ustoz AI Interview 4', 'Interview with educational insights', '/10.png', 'https://pub-7f4e732999f740a39783172c306c439c.r2.dev/IMG_1252.MOV', 0),
+('Ustoz AI Interview 5', 'Interview session featuring Ustoz AI', '/13.png', 'https://pub-7f4e732999f740a39783172c306c439c.r2.dev/IMG_1253.MOV', 0),
+('Ustoz AI Interview 6', 'Additional interview content', '/14.png', 'https://pub-7f4e732999f740a39783172c306c439c.r2.dev/IMG_1253.MOV', 0),
+('Ustoz AI Interview 7', 'Final interview in the series', '/15.png', 'https://pub-7f4e732999f740a39783172c306c439c.r2.dev/IMG_1255.MOV', 0);
 
